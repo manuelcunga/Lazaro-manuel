@@ -29,9 +29,7 @@
         <img alt="linkedin" src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%" />
     </a>
   
-    <a href="mailto:manuelvianacunga@gmail.com">
-        <img alt="gmail" src="https://img.icons8.com/color/48/000000/gmail.png" width="3.5%" />
-    </a>
+   
 </p>
 
 <h3 align="center">🛠️ <b>Languages and Tools that I work with:</b></h3>
