@@ -22,16 +22,14 @@
 
 <br>
 <p align="center">
-    <a href="https://twitter.com/gentil__pinto" target="_blank">
+    <a href="https://twitter.com/cunga22" target="_blank">
         <img alt="twitter" src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%" />
     </a>
-    <a href="https://www.linkedin.com/in/gentilpinto" target="_blank">
+    <a href="https://www.linkedin.com/in/l%C3%A1zaro-manuel-9264971b3/" target="_blank">
         <img alt="linkedin" src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%" />
     </a>
-    <a href="https://www.reddit.com/u/gentil__pinto" target="_blank">
-        <img alt="gmail" src="https://img.icons8.com/color/48/000000/reddit.png" width="3.5%" />
-    </a>
-    <a href="mailto:gentil.pinto.dev@gmail.com">
+  
+    <a href="mailto:manuelvianacunga@gmail.com">
         <img alt="gmail" src="https://img.icons8.com/color/48/000000/gmail.png" width="3.5%" />
     </a>
 </p>
