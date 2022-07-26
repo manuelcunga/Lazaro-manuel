@@ -1,8 +1,8 @@
 
 # Hi dear, Welcome! 😀
-### My name is Lázaro Manuel, I´m from Angola 🇦🇴 and I´m web developer. 😊
+### My name is Lázaro Manuel, I´m from Angola 🇦🇴 and I´m software Developer. 😊
 
-- CEO at **Community dev angola [Github](https://github.com/Community-Dev-Angola/)**
+- founder at **Community dev angola [Github](https://github.com/Community-Dev-Angola/)**
 - **Podecaster [Anchor](https://anchor.fm/lazaro-incio-manuel/)**
 - Content Creator at **[Youtuber](https://www.youtube.com/channel/UCqPww5N9YJXCsuAuYv7fxyw)**
 
@@ -11,26 +11,13 @@
 ## "We are the mentors of the next generation of programmers" 😊😎
 
 
-<div align="center">
-  <a href="https://https://www.linkedin.com/in/l%C3%A1zaromanuel/">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lazaro-manuel&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lazaro-manuel&layout=compact&langs_count=7&theme=merko"/>
-</div>
+
 
  <br/>
 <br/>
 
 <br>
-<p align="center">
-    <a href="https://twitter.com/cunga22" target="_blank">
-        <img alt="twitter" src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%" />
-    </a>
-    <a href="https://www.linkedin.com/in/l%C3%A1zaro-manuel-9264971b3/" target="_blank">
-        <img alt="linkedin" src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%" />
-    </a>
-  
-   
-</p>
+
 
 <h3 align="center">🛠️ <b>Languages and Tools that I work with:</b></h3>
 
@@ -107,7 +94,7 @@
  
  
 <div align="center"> 
- 	<a href="https://twitter.com/LzaroIncioManu2" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+ 	<a href="https://twitter.com/cunga22" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
  <a href="https://web.facebook.com/lazaro.manuel.75098" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
   <a href = "manuelvianacunga@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/l%C3%A1zaromanuel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
